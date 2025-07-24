@@ -9,4 +9,4 @@ Privacy-first financial management application for university students
 - Responsive design for mobile and desktop
 
 ## Academic Project
-This project was developed as part of the Software Development module at Goldsmiths, University of London.
+This project was developed as part of the Computing Project 2 module at Goldsmiths, University of London.
